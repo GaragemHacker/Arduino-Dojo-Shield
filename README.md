@@ -31,10 +31,11 @@ $ git clone --recursive https://github.com/GaragemHacker/Arduino-Dojo-Shield.git
 - Dispositivos:
  - 1x potenciômetro
  - 3x push button
+ - 3x LED difuso
  - 1x LED RGB
  - 1x display 7 segmentos (shift-register)
  - 1x LDR
- - 2x servo motor
+ - 3x servo motor
 - TO-DO
 	- [x] Esquemático
 	- [ ] PCB
